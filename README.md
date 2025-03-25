@@ -8,5 +8,12 @@
 docker-compose up --build
 ```
 
-1. Сервер будет доступен по адресу: http://localhost:8000
-2. Для WebSocket подключения: ws://localhost:8000/ws
+2. Сервер будет доступен по адресу: http://localhost:8000
+3. Для WebSocket подключения: ws://localhost:8000/ws
+
+4. перейдите в папку client
+
+5. Запуск клиента:
+```bash
+npm run dev
+```
